@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Rippeed/DaHoodinary/main/chariotsware"))()
+loadstring(game:HttpGetAsync("https://github.com/Aik0zumi/chariotsware-script-da-hood-modded-lodder/blob/main/Script"))()
